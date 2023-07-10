@@ -6,11 +6,15 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class BobboBassirouApplicationTests {
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b941cda69cabd74a8fe0961c8441bc3178dc571c
 	@Test
 	void contextLoads() {
 	}
 
+<<<<<<< HEAD
 
 	@Test
 	void isPalindrome() {
@@ -39,4 +43,6 @@ class BobboBassirouApplicationTests {
 		}
 		return true;
 	}
+=======
+>>>>>>> b941cda69cabd74a8fe0961c8441bc3178dc571c
 }
